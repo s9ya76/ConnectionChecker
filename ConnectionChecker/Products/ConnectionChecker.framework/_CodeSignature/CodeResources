@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/ConnectionChecker.swiftmodule/arm.swiftmodule</key>
 		<data>
-		O1My0VgUS5K/ymyCkuBRO8YVlhg=
+		TePUqds21ssKGmKEK1PMnghv+Gw=
 		</data>
 		<key>Modules/ConnectionChecker.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/ConnectionChecker.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		mDRfij7wbOgygLdGsL7XL/EdnKM=
+		RsOUd7PGoOFBaW/jxcQKJTi7u40=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O1My0VgUS5K/ymyCkuBRO8YVlhg=
+			TePUqds21ssKGmKEK1PMnghv+Gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cXYT0uTXhTiDokL2+rTLjPggrKa0TiHJU5aCf7DOtDs=
+			ZtF1Pzi3CwSK1LP7e7QOOmmxbqrIYXlAx8knwHu5P4A=
 			</data>
 		</dict>
 		<key>Modules/ConnectionChecker.swiftmodule/arm64.swiftdoc</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mDRfij7wbOgygLdGsL7XL/EdnKM=
+			RsOUd7PGoOFBaW/jxcQKJTi7u40=
 			</data>
 			<key>hash2</key>
 			<data>
-			LrfU2+CRLDe6dBoNDAUcbphRJg1JSALkI7d6MYp4Qio=
+			E1rznbZJVInDjaqffleyHozu4V0JshL3kxuHzVK7GQI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
