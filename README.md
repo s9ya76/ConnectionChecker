@@ -1,5 +1,6 @@
 # ConnectionChecker
-A network connaction checker on iOS.
+## Description
+A connaction checker on iOS.
 
 ## Notices
 The current version is working with Xcode Version 7. If you are using different Xcode version, please check out the previous releases.
