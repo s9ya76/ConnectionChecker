@@ -17,7 +17,7 @@ UIDevice().isConnectedNetwork()
 ```sh
 self.isConnectedNetwork { (isConnectedNetwork) in
     // Do something
-    self.logger?.info(isConnectedNetwork) // Show internet is connected or not.
+    print("Internet is connected: \(isConnectedNetwork)") // Show internet is connected or not.
 }
 ```
 ## Requirements
